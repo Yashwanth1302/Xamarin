@@ -11,7 +11,7 @@
       <DataTemplate>
         <ViewCell>
           <StackLayout Orientation="Vertical">
-            <Label Text="{Binding Name}" TextColor="#ff112"></Label>
+            <Label Text="{Binding Name}" TextColor="#ffffff"></Label>
             
           </StackLayout>
           
